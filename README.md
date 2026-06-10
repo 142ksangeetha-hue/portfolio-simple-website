@@ -8,6 +8,6 @@ Technologies Used:
 
 HTML5 CSS3
 
-View Project: (https://142ksangeetha-hue.github.io/portfolio-simple-website/)
+View Project: https://142ksangeetha-hue.github.io/portfolio-simple-website/
 
 Thank You: Thank you for visiting my portfolio! Your time and interest are greatly appreciated. Feel free to reach out with any feedback or opportunities. 😊# portfolio-simple-website created a portfolio based on our resume ,also created a contact form and link both the webpages
